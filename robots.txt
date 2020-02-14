@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pailieghu.sammdesign.com/sitemap.xml
